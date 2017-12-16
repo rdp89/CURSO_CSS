@@ -1,0 +1,10 @@
+p, h2, h5{
+	/*Esto pone de color rojo el texto*/
+	color: purple;
+	/*Alinea 
+	el texto 
+	de
+	forma 
+	centrada*/
+	text-align: left;
+}
